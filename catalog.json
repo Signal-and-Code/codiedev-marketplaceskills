@@ -1,0 +1,44 @@
+{
+  "skills": [
+    {
+      "slug": "test-driven-development",
+      "category": "workflow",
+      "tags": ["testing", "discipline", "tdd"],
+      "featured": true,
+      "sourceUrl": "https://github.com/anthropics/claude-code-plugins",
+      "sourceAttribution": "Superpowers by Claude Code Plugins"
+    },
+    {
+      "slug": "systematic-debugging",
+      "category": "workflow",
+      "tags": ["debugging", "discipline"],
+      "featured": true,
+      "sourceUrl": "https://github.com/anthropics/claude-code-plugins",
+      "sourceAttribution": "Superpowers by Claude Code Plugins"
+    },
+    {
+      "slug": "brainstorming",
+      "category": "workflow",
+      "tags": ["design", "planning", "ideation"],
+      "featured": true,
+      "sourceUrl": "https://github.com/anthropics/claude-code-plugins",
+      "sourceAttribution": "Superpowers by Claude Code Plugins"
+    },
+    {
+      "slug": "code-review",
+      "category": "workflow",
+      "tags": ["review", "quality"],
+      "featured": false,
+      "sourceUrl": "https://github.com/anthropics/claude-code-plugins",
+      "sourceAttribution": "Superpowers by Claude Code Plugins"
+    },
+    {
+      "slug": "writing-plans",
+      "category": "workflow",
+      "tags": ["planning", "architecture", "specs"],
+      "featured": false,
+      "sourceUrl": "https://github.com/anthropics/claude-code-plugins",
+      "sourceAttribution": "Superpowers by Claude Code Plugins"
+    }
+  ]
+}
