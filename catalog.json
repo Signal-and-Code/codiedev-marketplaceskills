@@ -14,7 +14,6 @@
       "category": "workflow",
       "tags": ["testing", "discipline", "tdd"],
       "featured": true,
-      "sourceUrl": "https://github.com/anthropics/claude-code",
       "sourceAttribution": "Claude Code Built-in"
     },
     {
@@ -22,7 +21,6 @@
       "category": "workflow",
       "tags": ["debugging", "discipline"],
       "featured": true,
-      "sourceUrl": "https://github.com/anthropics/claude-code",
       "sourceAttribution": "Claude Code Built-in"
     },
     {
@@ -48,7 +46,6 @@
       "category": "workflow",
       "tags": ["design", "planning", "ideation"],
       "featured": false,
-      "sourceUrl": "https://github.com/anthropics/claude-code",
       "sourceAttribution": "Claude Code Built-in"
     },
     {
@@ -83,7 +80,6 @@
       "category": "workflow",
       "tags": ["review", "quality"],
       "featured": false,
-      "sourceUrl": "https://github.com/anthropics/claude-code",
       "sourceAttribution": "Claude Code Built-in"
     },
     {
@@ -91,7 +87,6 @@
       "category": "workflow",
       "tags": ["planning", "architecture", "specs"],
       "featured": false,
-      "sourceUrl": "https://github.com/anthropics/claude-code",
       "sourceAttribution": "Claude Code Built-in"
     }
   ]
