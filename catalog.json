@@ -1,6 +1,14 @@
 {
   "skills": [
     {
+      "slug": "grill-me",
+      "category": "workflow",
+      "tags": ["planning", "design-review", "stress-test"],
+      "featured": true,
+      "sourceUrl": "https://github.com/mattpocock/skills",
+      "sourceAttribution": "Matt Pocock"
+    },
+    {
       "slug": "test-driven-development",
       "category": "workflow",
       "tags": ["testing", "discipline", "tdd"],
@@ -17,12 +25,52 @@
       "sourceAttribution": "Superpowers by Claude Code Plugins"
     },
     {
+      "slug": "caveman",
+      "category": "productivity",
+      "tags": ["token-savings", "efficiency", "communication"],
+      "featured": true,
+      "sourceUrl": "https://github.com/mattpocock/skills",
+      "sourceAttribution": "Matt Pocock"
+    },
+    {
       "slug": "brainstorming",
       "category": "workflow",
       "tags": ["design", "planning", "ideation"],
-      "featured": true,
+      "featured": false,
       "sourceUrl": "https://github.com/anthropics/claude-code-plugins",
       "sourceAttribution": "Superpowers by Claude Code Plugins"
+    },
+    {
+      "slug": "prototype",
+      "category": "engineering",
+      "tags": ["prototyping", "ui", "exploration"],
+      "featured": false,
+      "sourceUrl": "https://github.com/mattpocock/skills",
+      "sourceAttribution": "Matt Pocock"
+    },
+    {
+      "slug": "to-prd",
+      "category": "product",
+      "tags": ["prd", "product-management", "documentation"],
+      "featured": false,
+      "sourceUrl": "https://github.com/mattpocock/skills",
+      "sourceAttribution": "Matt Pocock"
+    },
+    {
+      "slug": "diagnose",
+      "category": "engineering",
+      "tags": ["debugging", "performance", "bugs"],
+      "featured": false,
+      "sourceUrl": "https://github.com/mattpocock/skills",
+      "sourceAttribution": "Matt Pocock"
+    },
+    {
+      "slug": "humanizer",
+      "category": "productivity",
+      "tags": ["writing", "editing", "ai-detection"],
+      "featured": false,
+      "sourceUrl": "https://github.com/blader/humanizer",
+      "sourceAttribution": "blader"
     },
     {
       "slug": "code-review",
