@@ -6,23 +6,24 @@
       "tags": ["planning", "design-review", "stress-test"],
       "featured": true,
       "sourceUrl": "https://github.com/mattpocock/skills",
-      "sourceAttribution": "Matt Pocock"
+      "sourceAttribution": "Matt Pocock",
+      "stars": 106699
     },
     {
       "slug": "test-driven-development",
       "category": "workflow",
       "tags": ["testing", "discipline", "tdd"],
       "featured": true,
-      "sourceUrl": "https://github.com/anthropics/claude-code-plugins",
-      "sourceAttribution": "Superpowers by Claude Code Plugins"
+      "sourceUrl": "https://github.com/anthropics/claude-code",
+      "sourceAttribution": "Claude Code Built-in"
     },
     {
       "slug": "systematic-debugging",
       "category": "workflow",
       "tags": ["debugging", "discipline"],
       "featured": true,
-      "sourceUrl": "https://github.com/anthropics/claude-code-plugins",
-      "sourceAttribution": "Superpowers by Claude Code Plugins"
+      "sourceUrl": "https://github.com/anthropics/claude-code",
+      "sourceAttribution": "Claude Code Built-in"
     },
     {
       "slug": "caveman",
@@ -30,15 +31,25 @@
       "tags": ["token-savings", "efficiency", "communication"],
       "featured": true,
       "sourceUrl": "https://github.com/mattpocock/skills",
-      "sourceAttribution": "Matt Pocock"
+      "sourceAttribution": "Matt Pocock",
+      "stars": 106699
+    },
+    {
+      "slug": "humanizer",
+      "category": "productivity",
+      "tags": ["writing", "editing", "ai-detection"],
+      "featured": true,
+      "sourceUrl": "https://github.com/blader/humanizer",
+      "sourceAttribution": "blader",
+      "stars": 21037
     },
     {
       "slug": "brainstorming",
       "category": "workflow",
       "tags": ["design", "planning", "ideation"],
       "featured": false,
-      "sourceUrl": "https://github.com/anthropics/claude-code-plugins",
-      "sourceAttribution": "Superpowers by Claude Code Plugins"
+      "sourceUrl": "https://github.com/anthropics/claude-code",
+      "sourceAttribution": "Claude Code Built-in"
     },
     {
       "slug": "prototype",
@@ -46,7 +57,8 @@
       "tags": ["prototyping", "ui", "exploration"],
       "featured": false,
       "sourceUrl": "https://github.com/mattpocock/skills",
-      "sourceAttribution": "Matt Pocock"
+      "sourceAttribution": "Matt Pocock",
+      "stars": 106699
     },
     {
       "slug": "to-prd",
@@ -54,7 +66,8 @@
       "tags": ["prd", "product-management", "documentation"],
       "featured": false,
       "sourceUrl": "https://github.com/mattpocock/skills",
-      "sourceAttribution": "Matt Pocock"
+      "sourceAttribution": "Matt Pocock",
+      "stars": 106699
     },
     {
       "slug": "diagnose",
@@ -62,31 +75,24 @@
       "tags": ["debugging", "performance", "bugs"],
       "featured": false,
       "sourceUrl": "https://github.com/mattpocock/skills",
-      "sourceAttribution": "Matt Pocock"
-    },
-    {
-      "slug": "humanizer",
-      "category": "productivity",
-      "tags": ["writing", "editing", "ai-detection"],
-      "featured": false,
-      "sourceUrl": "https://github.com/blader/humanizer",
-      "sourceAttribution": "blader"
+      "sourceAttribution": "Matt Pocock",
+      "stars": 106699
     },
     {
       "slug": "code-review",
       "category": "workflow",
       "tags": ["review", "quality"],
       "featured": false,
-      "sourceUrl": "https://github.com/anthropics/claude-code-plugins",
-      "sourceAttribution": "Superpowers by Claude Code Plugins"
+      "sourceUrl": "https://github.com/anthropics/claude-code",
+      "sourceAttribution": "Claude Code Built-in"
     },
     {
       "slug": "writing-plans",
       "category": "workflow",
       "tags": ["planning", "architecture", "specs"],
       "featured": false,
-      "sourceUrl": "https://github.com/anthropics/claude-code-plugins",
-      "sourceAttribution": "Superpowers by Claude Code Plugins"
+      "sourceUrl": "https://github.com/anthropics/claude-code",
+      "sourceAttribution": "Claude Code Built-in"
     }
   ]
 }
