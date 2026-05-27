@@ -3,7 +3,11 @@
     {
       "slug": "grill-me",
       "category": "workflow",
-      "tags": ["planning", "design-review", "stress-test"],
+      "tags": [
+        "planning",
+        "design-review",
+        "stress-test"
+      ],
       "featured": true,
       "sourceUrl": "https://github.com/mattpocock/skills",
       "sourceAttribution": "Matt Pocock",
@@ -12,21 +16,32 @@
     {
       "slug": "test-driven-development",
       "category": "workflow",
-      "tags": ["testing", "discipline", "tdd"],
+      "tags": [
+        "testing",
+        "discipline",
+        "tdd"
+      ],
       "featured": true,
       "sourceAttribution": "Claude Code Built-in"
     },
     {
       "slug": "systematic-debugging",
       "category": "workflow",
-      "tags": ["debugging", "discipline"],
+      "tags": [
+        "debugging",
+        "discipline"
+      ],
       "featured": true,
       "sourceAttribution": "Claude Code Built-in"
     },
     {
       "slug": "caveman",
       "category": "productivity",
-      "tags": ["token-savings", "efficiency", "communication"],
+      "tags": [
+        "token-savings",
+        "efficiency",
+        "communication"
+      ],
       "featured": true,
       "sourceUrl": "https://github.com/mattpocock/skills",
       "sourceAttribution": "Matt Pocock",
@@ -35,7 +50,11 @@
     {
       "slug": "humanizer",
       "category": "productivity",
-      "tags": ["writing", "editing", "ai-detection"],
+      "tags": [
+        "writing",
+        "editing",
+        "ai-detection"
+      ],
       "featured": true,
       "sourceUrl": "https://github.com/blader/humanizer",
       "sourceAttribution": "blader",
@@ -44,14 +63,22 @@
     {
       "slug": "brainstorming",
       "category": "workflow",
-      "tags": ["design", "planning", "ideation"],
+      "tags": [
+        "design",
+        "planning",
+        "ideation"
+      ],
       "featured": false,
       "sourceAttribution": "Claude Code Built-in"
     },
     {
       "slug": "prototype",
       "category": "engineering",
-      "tags": ["prototyping", "ui", "exploration"],
+      "tags": [
+        "prototyping",
+        "ui",
+        "exploration"
+      ],
       "featured": false,
       "sourceUrl": "https://github.com/mattpocock/skills",
       "sourceAttribution": "Matt Pocock",
@@ -60,7 +87,11 @@
     {
       "slug": "to-prd",
       "category": "product",
-      "tags": ["prd", "product-management", "documentation"],
+      "tags": [
+        "prd",
+        "product-management",
+        "documentation"
+      ],
       "featured": false,
       "sourceUrl": "https://github.com/mattpocock/skills",
       "sourceAttribution": "Matt Pocock",
@@ -69,7 +100,11 @@
     {
       "slug": "diagnose",
       "category": "engineering",
-      "tags": ["debugging", "performance", "bugs"],
+      "tags": [
+        "debugging",
+        "performance",
+        "bugs"
+      ],
       "featured": false,
       "sourceUrl": "https://github.com/mattpocock/skills",
       "sourceAttribution": "Matt Pocock",
@@ -78,16 +113,37 @@
     {
       "slug": "code-review",
       "category": "workflow",
-      "tags": ["review", "quality"],
+      "tags": [
+        "review",
+        "quality"
+      ],
       "featured": false,
       "sourceAttribution": "Claude Code Built-in"
     },
     {
       "slug": "writing-plans",
       "category": "workflow",
-      "tags": ["planning", "architecture", "specs"],
+      "tags": [
+        "planning",
+        "architecture",
+        "specs"
+      ],
       "featured": false,
       "sourceAttribution": "Claude Code Built-in"
+    },
+    {
+      "slug": "autoreview",
+      "category": "workflow",
+      "tags": [
+        "review",
+        "quality",
+        "code-review",
+        "closeout"
+      ],
+      "featured": true,
+      "sourceUrl": "https://github.com/openclaw/agent-skills",
+      "sourceAttribution": "OpenClaw / steipete",
+      "stars": 0
     }
   ]
 }
